@@ -1,7 +1,7 @@
 {
-  "name": "phonegap-simple-vuejs",
+  "name": "phonegap-vuejs-modularcss",
   "version": "1.0.0",
-  "description": "A simple template to use vue with phonegap",
+  "description": "A simple template to use vue js and modular css with phonegap",
   "main": "index.js",
   "scripts": {
     "watchify": "watchify -vd -p browserify-hmr -e www/src/main.js -o www/dist/build.js",
@@ -19,7 +19,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/OmarGM2294/phonegap_simple_vuejs.git"
+    "url": "git+https://github.com/OmarGM2294/phonegap-vuejs-modularcss.git"
   },
   "keywords": [
     "cordova:template",
@@ -40,9 +40,9 @@
   "author": "Omar Gonzalez",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/OmarGM2294/phonegap_simple_vuejs/issues"
+    "url": "https://github.com/OmarGM2294/phonegap-vuejs-modularcss/issues"
   },
-  "homepage": "https://github.com/OmarGM2294/phonegap_simple_vuejs#readme",
+  "homepage": "https://github.com/OmarGM2294/phonegap-vuejs-modularcss#readme",
   "dependencies": {
     "babel-core": "^6.24.0",
     "babel-plugin-transform-runtime": "6.9.0",
