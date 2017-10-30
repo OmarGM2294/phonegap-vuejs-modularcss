@@ -1,6 +1,6 @@
 {
   "name": "phonegap-vuejs-modularcss",
-  "version": "1.0.6",
+  "version": "1.0.0",
   "description": "A simple template to use vue js and modular css with phonegap",
   "main": "index.js",
   "scripts": {
